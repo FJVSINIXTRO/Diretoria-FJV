@@ -13,10 +13,7 @@ module.exports = {
       .setDescription(`
 ━━━━━━━━━━━━━━━━━━━━━━
 
-__**FUNDADOR - XARUTO**__  
-<@1402095058299129918>
-
-Nosso fundador e atual presidente, **Xaruto**, ficará eternizado na história da FJV. O mesmo foi o responsável por comandar a torcida em diversos xbondes e pistas.
+*__Nosso fundador e atual presidente, Xaruto, ficará eternizado na história da FJV. O mesmo foi o responsável por comandar a torcida em diversos xbondes e pistas.__*
 
 -# 📅 06/07/26 • Honrarias FJV
 `)
