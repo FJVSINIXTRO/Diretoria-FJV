@@ -11,12 +11,15 @@ module.exports = {
       .setColor("#8B0000")
       .setTitle("🏴 FUNDADOR - XARUTO")
       .setDescription(`
-# FUNDADOR - XARUTO - <@1402095058299129918>
+━━━━━━━━━━━━━━━━━━━━━━
+
+__**FUNDADOR - XARUTO**__  
+<@1402095058299129918>
 
 Nosso fundador e atual presidente, **Xaruto**, ficará eternizado na história da FJV. O mesmo foi o responsável por comandar a torcida em diversos xbondes e pistas.
 
 -# 📅 06/07/26 • Honrarias FJV
-      `)
+`)
       .setFooter({
         text: "Força Jovem Vasco • Diretoria"
       })
